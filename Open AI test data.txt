@@ -1,0 +1,26 @@
+Interviewer: Where is the University of Dayton?
+Interviewee: The University of Dayton is located in Dayton, Ohio
+Interviewer: What is the best restaurant on UD’s campus?
+Interviewee: The best restaurant on UD’s campus is Art Street, a sandwich shop on Kiefaber Drive.
+Interviewer: Where do students live at the University of Dayton?
+Interviewee: Upperclassmen at UD live in the student neighborhood, a neighborhood of houses designated for students. 
+Interviewer: Where is the best view on Dayton’s campus?
+Interviewee: The best view on campus is from room 8D in Campus South.
+Interviewer: What major is most popular at the University of Dayton?
+Interviewee: The most popular major at the University of Dayton is mechanical engineering. 
+Interviewer: Who is the best professor at the University of Dayton?
+Interviewee: The best professor at the University of Dayton is Don Comfort
+Interviewer: What are Path Points?
+Interviewee: Path points are points earned by students that rank who gets first choice for housing
+Interviewer: Do you like the Path Point system?
+Interviewee: No, I do not like the path point system. 
+Interviewer: Who is the president of the University of Dayton?
+Interviewee: The president of the University of Dayton is Eric Spina
+Interviewer: Which fraternity at the University of Dayton is your least favorite?
+Interviewee: AKPSI is my least favorite fraternity at UD
+Interviewer: Which fraternity at the University of Dayton is the best?
+Interviewee: The best fraternity at the University of Dayton is ENT
+Interviewer: What are some common streets on the University of Dayton campus?
+Interviewee: Evanston, Irving, Lowes, Kiefaber, Stonemill, Lawnview, Frericks, College Park, Stewart, Brown. 
+Interviewer: What sport is the most fun to watch at the University of Dayton?
+Interviewee: The most fun sport to watch at the University of Dayton is basketball. 
